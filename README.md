@@ -96,3 +96,23 @@
     
 ## 安装软件
 
+    在线安装: sudo apt-get install tree       tree为软件名  
+    移除: sudo apt-get remove tree  
+    更新: sudo apt-get update                 --更新软件列表 
+    清理所有软件安装包: sudo apt-get clean  
+    ---实际清理的是/var/cache/apt/archives目录下的.deb文件  
+    
+    deb包离线安装  
+    安装: sudo dpkg -i xxx.deb  
+    删除: sudo dpkg -r xxx  
+    
+## 挂载  
+
+     sudo fdisk -l      查看磁盘分区  
+     sudo mount /dev/sdb1 /mnt  
+     sudo unmount /mnt  
+
+## 压缩  
+
+    .tar
+    
