@@ -70,5 +70,29 @@
 |sudo chown luffy:lisi temp|改变所有者、所属组|
 |sudo chgrp itcast temp|改变所属组|
 
-  
-  
+## 查找
+
+    find + 查找目录 + -name + "文件名字"
+    “hello*”通配符所有的
+    "hello？"通配符一个字符
+    find + 查找目录 + -size + +10k      大于10k
+    find + 查找目录 + -size + -10k      小于10k
+    find + 查找目录 + -size + +10M -size -100M     查找大于10M且小于100M
+    find + 查找目录 + -type + 类型名
+    
+    普通文件[f]
+    目录[d]
+    链接符号[l]
+    块设备[b]
+    字符设备[c]
+    socket文件[s]
+    管道[p]
+    eg:find ~ -type p
+    mkfifi aa   创建管道  
+    按文件内容查找:
+    grep -r "查找内容" + 查找路径
+    eg:grep -r stdio linux/
+    
+    
+## 安装软件
+
