@@ -114,5 +114,19 @@
 
 ## 压缩  
 
-    .tar
+    .tar-------------------------------基于gzip和bzip2的一个压缩  
+    c---创建---压缩  
+    x---释放---解压缩  
+    v---显示提示信息---压缩解压缩---可以省略  
+    f---指定压缩文件的名字  
+    z---使用gzip的方式压缩文件--- .gz  
+    j---使用bzip2的方式压缩文件--- .bzip2  
+    压缩：  
+    tar zcvf 生成的压缩包的名字(xxx.tar.gz) 要压缩的文件或目录
+    tar jcvf 生成的压缩包的名字(xxx.tar.bz2) 要压缩的文件或目录
+    eg:
+    tar zcvf alltxt.tar.gz *.txt
+    tar jcvf animal.tar.bz2 animal/*.txt
+    
+    
     
