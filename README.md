@@ -152,6 +152,28 @@
         unzip 压缩包的名字 -d 解压目录
     压缩目录: zip -r animal animal  
     
+## 其他
+    
+    ps a       ------列出当前用户信息
+    ps au
+    ps aux     ------查看没有终端的应用程序
+    有终端与用户进行交互
+    管道 指令1 | 指令2
+    指令1的输出作为指令2的输入
+    指令2处理完毕，将信息输出到屏幕
+    eg:
+      ps aux | grep bash
+      显示的最后一个结果不要，是grep占用的进程
+      
+    进程: kill -l 查看
+    杀死进程: kill -9 5286   --------5286是进程号
+    top ---- 查看任务管理器
+    查看本机ip: ifconfig
+    测试主机间通信: ping ip
+    ping ip -c 4
+    4 ---- 代表只发送4条
+    查看域名的ip: nslookup www.baidu.com
+
 ## 为什么写这个
 
     之前看了bilibili的视频，后来作者删了，这是我的记的笔记！
