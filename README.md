@@ -112,7 +112,7 @@
      sudo mount /dev/sdb1 /mnt  
      sudo unmount /mnt  
 
-## 压缩  
+## 压缩
 
     .tar-------------------------------基于gzip和bzip2的一个压缩  
     c---创建---压缩  
@@ -127,6 +127,31 @@
     eg:
     tar zcvf alltxt.tar.gz *.txt
     tar jcvf animal.tar.bz2 animal/*.txt
+    解压缩:
+    tar zxvf 压缩包名字 目录  -------------目录不写则解压到当前目录
+    eg:  
+    tar zxvf alltxt.tar.gz
+    tar jxvf animal.tar.bz2 -C test/  
     
+    .rar   ------------必须手动安装该软件
+    安装: sudo apt-get install rar
+    参数:
+       压缩: a
+       解压缩: x
+    rar a 生成的压缩文件的名字(temp) 压缩的文件或目录 ------------压缩的名字不用加.rar,自动加  
+    eg: rar a animal animal
+    解压缩：  
+    rar x 压缩文件名 解压目录
+    eg: rar x all.rar----------后边应该写解压到的目录，不写则解压到当前目录
     
+    .zip
+    压缩:
+        zip 压缩包的名字 压缩的文件或目录
+    解压:  
+        unzip 压缩包的名字
+        unzip 压缩包的名字 -d 解压目录
+    压缩目录: zip -r animal animal  
     
+## 为什么写这个
+
+    之前看了bilibili的视频，后来作者删了，这是我的记的笔记！
