@@ -152,6 +152,15 @@
         unzip 压缩包的名字 -d 解压目录
     压缩目录: zip -r animal animal  
     
+## 用户    
+
+    添加用户: sudo adduser baozheng
+    切换用户: su baozheng
+    添加用户组: sudo groupadd Robin
+    修改密码: sudo passwd Robin
+    修改当前用户密码: passwd
+    修改root密码: sudo passwd
+    
 ## 其他
     
     ps a       ------列出当前用户信息
@@ -173,6 +182,8 @@
     ping ip -c 4
     4 ---- 代表只发送4条
     查看域名的ip: nslookup www.baidu.com
+    
+    修改文件名: mv 原文件名 新文件名
 
 ## 为什么写这个
 
