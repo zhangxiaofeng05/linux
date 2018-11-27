@@ -7,6 +7,9 @@
  - 如何用云服务器一键搭建基于NextCloud开源应用的免费私有网盘  
  http://blog.ucloud.cn/archives/3655  
  里边写的很详细，我就不复制了  
+ - app  
+ Android: http://m.mdpda.com/6964233  
+ ios: 直接在应用商店下载  
 
 ### owncloud  
 开源的，网上的评论也不错  
