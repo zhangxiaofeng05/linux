@@ -1,6 +1,10 @@
 ## linux终端命令
 
-如果英语比较好，可以查看man文档  
+`如果英语比较好，可以查看man文档`  
+
+ - 我的总结比较差，但是舍不得删  
+ 附上别人总结比较全的  
+ https://github.com/jaywcjlove/linux-command  
 
 |命令|解释|
 |------|-----|
