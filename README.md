@@ -12,4 +12,4 @@ https://zhangxiaofeng.top
  linux下常用的一些软件  
 
 ## 支付宝领红包
-![alipay](/alipay.jpg)
+![alipay](https://github.com/lionliuchen/linux/blob/master/alipay.jpg)
