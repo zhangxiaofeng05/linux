@@ -10,7 +10,7 @@ https://hexo.io/zh-cn/docs/
  - nodejs  
 sudo apt-get install nodejs  
  - npm  
-sudp apt-get install npm  
+sudo apt-get install npm  
  - hexo  
 sudo npm install hexo-cli -g  
  - git  
