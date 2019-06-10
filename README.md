@@ -1,4 +1,4 @@
-## 我的网址 
+## 我的网址
 
 https://zhangxiaofeng.top  
 
@@ -10,6 +10,3 @@ https://zhangxiaofeng.top
  linux安装hexo的一些基本操作  
  - software  
  linux下常用的一些软件  
-
-## 支付宝领红包
-![alipay](https://github.com/lionliuchen/linux/blob/master/alipay.jpg)
