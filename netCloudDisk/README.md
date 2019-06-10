@@ -19,7 +19,7 @@
 
 ## nextCloud
 
-   ![issues](https://img.shields.io/github/issues/nextcloud/server.svg)![forks](https://img.shields.io/github/forks/nextcloud/server.svg)![stars](https://img.shields.io/github/stars/nextcloud/server.svg)
+   ![issues](https://img.shields.io/github/issues/nextcloud/server.svg)　![forks](https://img.shields.io/github/forks/nextcloud/server.svg)　![stars](https://img.shields.io/github/stars/nextcloud/server.svg)
 
 　 托管于 [GitHub](https://github.com/nextcloud)
 
@@ -30,7 +30,7 @@
 
 ## ownCloud  
 
-   ![issues](https://img.shields.io/github/issues/owncloud/core.svg)![forks](https://img.shields.io/github/forks/owncloud/core.svg)![stars](https://img.shields.io/github/stars/owncloud/core.svg)
+   ![issues](https://img.shields.io/github/issues/owncloud/core.svg)　![forks](https://img.shields.io/github/forks/owncloud/core.svg)　![stars](https://img.shields.io/github/stars/owncloud/core.svg)
 
    托管于 [GitHub](https://github.com/owncloud)
 
