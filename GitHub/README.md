@@ -1,17 +1,17 @@
 # 目录
- - [Git官网指南](Git官网指南)
- - [GitHub指南](#GitHub指南)
+ - [Git](#Git)
+ - [GitHub](#GitHub)
  - [Markdown](#Markdown)
     - [添加stars等图标](#添加stars等图标)
     - [添加空格效果](#添加空格效果)
 
 ---
-# Git官网指南
+# Git
  [Git官网指南](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-Git-%E7%AE%80%E5%8F%B2)
 
  官网的指南，肯定没问题。最权威
 
-# GitHub指南
+# GitHub
  GitHub官网引导，介绍给你GitHub是什么？(全英文，没有中文文档)
 
  https://guides.github.com/
