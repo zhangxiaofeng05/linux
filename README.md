@@ -1,12 +1,26 @@
-## 我的网址
+# 目录
+ - [文本编辑器](#文本编辑器)
+    - [sublime](#sublime)
+ - [搭建静态博客](#搭建静态博客)
+ - [常用软件](#常用软件)
+ - [搭建云盘](#搭建云盘)
+ - [Linux命令](#Linux命令)
 
-https://zhangxiaofeng.top  
+---
+# 文本编辑器
+Sublime text
 
-## 我在linux上的操作(deepin 15.7)  
+## sublime
+ [sublime](https://github.com/lionliuchen/lionliuchen_linux/tree/master/sublime)
 
- - terminal  
- linux终端常用命令  
- - hexo  
- linux安装hexo的一些基本操作  
- - software  
- linux下常用的一些软件  
+# 搭建静态博客
+  - [Hexo](https://github.com/lionliuchen/lionliuchen_linux/tree/master/staticBlog/hexo)
+
+# 常用软件
+ [software](https://github.com/lionliuchen/lionliuchen_linux/tree/master/software)
+
+# 搭建云盘
+ [netCloudDisk](https://github.com/lionliuchen/lionliuchen_linux/tree/master/netCloudDisk)
+
+# Linux命令
+[terminal](https://github.com/lionliuchen/lionliuchen_linux/tree/master/terminal)
