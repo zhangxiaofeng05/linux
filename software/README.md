@@ -14,16 +14,9 @@
  https://www.jetbrains.com/pycharm/  
  - Eclipse-jee(免安装的版本)  
  https://www.eclipse.org/downloads/packages/  
- - sublime text3  
- https://www.sublimetext.com/  
 
 ## 深度商店安装  
 
  - 扫雷  
  - 数独  
  - 黑白棋  
-
-## deepin自带  
-
- - QQ  
- - 网易云音乐  
