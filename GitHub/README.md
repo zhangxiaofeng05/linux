@@ -1,10 +1,10 @@
 # 目录
- - [GitHub Guides](#GitHub Guides)
+ - [GitHub指南](#GitHub指南)
  - [Markdown](#Markdown)
     - [添加stars等图标](#添加stars等图标)
 
 ---
-# GitHub Guides
+# GitHub指南
  GitHub官网引导，介绍给你GitHub是什么？(全英文，没有中文文档)
 
  https://guides.github.com/
