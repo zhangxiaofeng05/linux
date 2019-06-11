@@ -2,6 +2,7 @@
  - [GitHub指南](#GitHub指南)
  - [Markdown](#Markdown)
     - [添加stars等图标](#添加stars等图标)
+    - [添加空格效果](#添加空格效果)
 
 ---
 # GitHub指南
@@ -25,3 +26,6 @@
  - 图标制作　
 
 　https://shields.io/
+
+## 添加空格效果
+在中文输入法下使用全角,之后再按空格键，那么空格键就会生效
